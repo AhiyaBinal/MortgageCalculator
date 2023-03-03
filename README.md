@@ -25,7 +25,7 @@ This application was developed by Binal Ahiya. If you have any questions or feed
 
 ## License
 
-This application is licensed under the [GNU License](https://github.com/AhiyaBinal/MortgageCalculator/blob/main/LICENSE). You are free to use, modify, and distribute this application as you see fit.
+This application is licensed under the [GPL 3.0 License](https://github.com/AhiyaBinal/MortgageCalculator/blob/main/LICENSE). You are free to use, modify, and distribute this application as you see fit.
 
 ## Screen Prints  
 
